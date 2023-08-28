@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🛸 I'm zw
+- 🚀 I’m currently read Ph.D. in AIDD at SIMM
+- 🌱 I’m currently learning NLP, ML, CV, GNN
+- 🔭 I’m currently interested in AI for drug discovery and ML Competitions
+- ⚡ I’m an enthusiast of data science
+
+### Awards 🏆
+
+- 【2023 MERCK】 Digital Medical Algorithm Application Innovation Competition **3st/602**
+- 【2023 PaddlePaddle】 The First Global AI Drug Development Competition **4th/256**
+- 【2023 iFLYTEK AI】Academic-Documents Element Classification **2th/266**
+- 【2022 Kaggle】U.S. Patent Pharase to Phrase Matching **Sliver Medal**
+
+Up！Up！Up! 😄
