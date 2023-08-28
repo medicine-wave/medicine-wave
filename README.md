@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🛸 I'm zw
-- 🚀 I’m currently read Ph.D. in AIDD at SIMM
+- 🚀 I’m currently reading Ph.D. in AIDD at SIMM
 - 🌱 I’m currently learning NLP, ML, CV, GNN
 - 🔭 I’m currently interested in AI for drug discovery and ML Competitions
 - ⚡ I’m an enthusiast of data science
