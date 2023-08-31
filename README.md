@@ -7,7 +7,7 @@
 - ⚡ I’m an enthusiast of data science
 
 ### Awards 🏆
-- 【2023 iFLYTEK AI】Academic-Documents Element Classification **2th/266**
+- 【2023 iFLYTEK AI】Academic-Documents Element Classification **2nd/266**
 - 【2023 PaddlePaddle】 The First Global AI Drug Development Competition **4th/256**
 - 【2023 MERCK】 Digital Medical Algorithm Application Innovation Competition **3rd/602**
 - 【2022 Kaggle】U.S. Patent Pharase to Phrase Matching **Sliver Medal**
